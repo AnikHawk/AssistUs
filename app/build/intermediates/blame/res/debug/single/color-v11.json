@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/anika/AndroidStudioProjects/Assistus/C:\\Users\\Anik\\AndroidStudioProjects\\MyApplication10\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/anika/AndroidStudioProjects/Assistus/C:\\Users\\Anik\\.android\\build-cache\\09b84dbfcfcf894947aa6e8ffac6b8121941921d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/anika/AndroidStudioProjects/Assistus/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/anika/.android/build-cache/7266563a3bd7911e958aaccead4e962c72be2559/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/anika/AndroidStudioProjects/Assistus/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/anika/.android/build-cache/7266563a3bd7911e958aaccead4e962c72be2559/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/anika/AndroidStudioProjects/Assistus/C:\\Users\\Anik\\AndroidStudioProjects\\MyApplication10\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/anika/AndroidStudioProjects/Assistus/C:\\Users\\Anik\\.android\\build-cache\\09b84dbfcfcf894947aa6e8ffac6b8121941921d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

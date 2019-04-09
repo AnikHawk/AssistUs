@@ -1,0 +1,260 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:9:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.VIBRATOR
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:13:5-85
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:13:22-82
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /home/anika/.android/build-cache/69ddc5c0615375a13f1554303078a19d0af9c049/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /home/anika/.android/build-cache/69ddc5c0615375a13f1554303078a19d0af9c049/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:19:22-76
+uses-permission#com.google.android.providers.gsf.permisson.READ_GSERVICES
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:20:5-96
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:20:22-94
+application
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:30:5-78:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/anika/.android/build-cache/7266563a3bd7911e958aaccead4e962c72be2559/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/anika/.android/build-cache/d375da0b7e135d45bea25e9fbc55644ce6b5f649/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/anika/.android/build-cache/a9c8405b0120ee4bcc185131c53eca3a27dc6c34/output/AndroidManifest.xml:26:5-20
+MERGED from [com.andkulikov:transitionseverywhere:1.7.5] /home/anika/.android/build-cache/be8743a058eeebbdd5c919a47e909482a7738f20/output/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/anika/.android/build-cache/e4846e4ecba787ebcd0ea0bed88a0e903b91ee38/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anika/.android/build-cache/144b7d0efcb773b9364996dd94bd55de4d96982d/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /home/anika/.android/build-cache/69ddc5c0615375a13f1554303078a19d0af9c049/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /home/anika/.android/build-cache/c3ede03472368373730ac7667ce0e1711085e756/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /home/anika/.android/build-cache/c09fbe59e5ddc5dac4e9593b33000d3d7cc2e05b/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /home/anika/.android/build-cache/3733c46a591d0f2404646e4edb0c69456ccf2c6b/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /home/anika/.android/build-cache/00faffa765fd3bea5fc1034a7d0fc9a24fc7ed0c/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/anika/.android/build-cache/64522231e74624e76c9a154c70dc69556f754237/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/anika/.android/build-cache/523d512a72003d5fb3de25632002309184eef370/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/anika/.android/build-cache/92ba19a3481a92e2f0e058bfd92824e5dac85087/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/anika/.android/build-cache/2f7ccfbf5f97086f4d2106ad36f5f13abdaa158e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/anika/.android/build-cache/df1c4119b02a3c13f0500db1588bf4f5aa7768a4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/anika/.android/build-cache/1353723c6d4af7b4e6aebe922001455547101561/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:33:9-33
+	android:supportsRtl
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:35:9-35
+	android:roundIcon
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:34:9-54
+	android:allowBackup
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:31:9-35
+	android:icon
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:32:9-40
+	android:theme
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:36:9-67
+activity#sh.com.myapplication10.MainOption
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:37:9-43:20
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:37:19-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:41:27-74
+activity#sh.com.myapplication10.TaskManagementActivity
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:44:9-60
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:44:19-57
+activity#sh.com.myapplication10.TaskManagementEdit
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:45:9-56
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:45:19-53
+activity#sh.com.myapplication10.SilentMainActivity
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:46:9-56
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:46:19-53
+activity#sh.com.myapplication10.SilentEdit
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:47:9-48
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:47:19-45
+activity#sh.com.myapplication10.MainActivity
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:48:9-50
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:48:19-47
+activity#sh.com.myapplication10.SilentAdd
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:49:9-47
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:49:19-44
+activity#sh.com.myapplication10.TuneSelect
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:50:9-47
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:50:19-45
+receiver#sh.com.myapplication10.Notification_Receiver
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:52:9-59
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:52:19-56
+receiver#sh.com.myapplication10.Silent_Receiver
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:53:9-53
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:53:19-50
+receiver#sh.com.myapplication10.Disable_Silent_Receiver
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:54:9-61
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:54:19-58
+service#sh.com.myapplication10.NotificationService
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:56:9-57:38
+	android:exported
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:57:13-36
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:56:18-53
+service#sh.com.myapplication10.SilentService
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:58:9-59:38
+	android:exported
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:59:13-36
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:58:18-47
+service#sh.com.myapplication10.DisableSilentService
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:60:9-61:38
+	android:exported
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:61:13-36
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:60:18-54
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:71:9-73:55
+	android:value
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:73:13-52
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:72:13-58
+activity#sh.com.myapplication10.MapsActivity
+ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:75:9-77:68
+	android:label
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:77:13-56
+	android:name
+		ADDED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml:76:13-41
+uses-sdk
+INJECTED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/anika/.android/build-cache/7266563a3bd7911e958aaccead4e962c72be2559/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/anika/.android/build-cache/d375da0b7e135d45bea25e9fbc55644ce6b5f649/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/anika/.android/build-cache/a9c8405b0120ee4bcc185131c53eca3a27dc6c34/output/AndroidManifest.xml:20:5-44
+MERGED from [com.andkulikov:transitionseverywhere:1.7.5] /home/anika/.android/build-cache/be8743a058eeebbdd5c919a47e909482a7738f20/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/anika/.android/build-cache/e4846e4ecba787ebcd0ea0bed88a0e903b91ee38/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/anika/.android/build-cache/ecec3d738c026dea84acf08b988a2bf374d4ef75/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anika/.android/build-cache/144b7d0efcb773b9364996dd94bd55de4d96982d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /home/anika/.android/build-cache/69ddc5c0615375a13f1554303078a19d0af9c049/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /home/anika/.android/build-cache/c3ede03472368373730ac7667ce0e1711085e756/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /home/anika/.android/build-cache/c09fbe59e5ddc5dac4e9593b33000d3d7cc2e05b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /home/anika/.android/build-cache/3733c46a591d0f2404646e4edb0c69456ccf2c6b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /home/anika/.android/build-cache/00faffa765fd3bea5fc1034a7d0fc9a24fc7ed0c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/anika/.android/build-cache/64522231e74624e76c9a154c70dc69556f754237/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/anika/.android/build-cache/523d512a72003d5fb3de25632002309184eef370/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/anika/.android/build-cache/92ba19a3481a92e2f0e058bfd92824e5dac85087/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/anika/.android/build-cache/2f7ccfbf5f97086f4d2106ad36f5f13abdaa158e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/anika/.android/build-cache/df1c4119b02a3c13f0500db1588bf4f5aa7768a4/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/anika/.android/build-cache/1353723c6d4af7b4e6aebe922001455547101561/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/anika/.android/build-cache/7266563a3bd7911e958aaccead4e962c72be2559/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anika/AndroidStudioProjects/Assistus/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/anika/.android/build-cache/7266563a3bd7911e958aaccead4e962c72be2559/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/anika/.android/build-cache/d375da0b7e135d45bea25e9fbc55644ce6b5f649/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/anika/.android/build-cache/a9c8405b0120ee4bcc185131c53eca3a27dc6c34/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/anika/.android/build-cache/e4846e4ecba787ebcd0ea0bed88a0e903b91ee38/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/anika/.android/build-cache/ecec3d738c026dea84acf08b988a2bf374d4ef75/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/anika/.android/build-cache/64522231e74624e76c9a154c70dc69556f754237/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/anika/.android/build-cache/523d512a72003d5fb3de25632002309184eef370/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/anika/.android/build-cache/92ba19a3481a92e2f0e058bfd92824e5dac85087/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/anika/.android/build-cache/2f7ccfbf5f97086f4d2106ad36f5f13abdaa158e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/anika/.android/build-cache/df1c4119b02a3c13f0500db1588bf4f5aa7768a4/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/anika/.android/build-cache/1353723c6d4af7b4e6aebe922001455547101561/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/anika/.android/build-cache/7266563a3bd7911e958aaccead4e962c72be2559/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/anika/.android/build-cache/7266563a3bd7911e958aaccead4e962c72be2559/output/AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.2] /home/anika/.android/build-cache/69ddc5c0615375a13f1554303078a19d0af9c049/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] /home/anika/.android/build-cache/69ddc5c0615375a13f1554303078a19d0af9c049/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] /home/anika/.android/build-cache/69ddc5c0615375a13f1554303078a19d0af9c049/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/anika/.android/build-cache/c09fbe59e5ddc5dac4e9593b33000d3d7cc2e05b/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/anika/.android/build-cache/c09fbe59e5ddc5dac4e9593b33000d3d7cc2e05b/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/anika/.android/build-cache/c09fbe59e5ddc5dac4e9593b33000d3d7cc2e05b/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/anika/.android/build-cache/c09fbe59e5ddc5dac4e9593b33000d3d7cc2e05b/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] /home/anika/.android/build-cache/00faffa765fd3bea5fc1034a7d0fc9a24fc7ed0c/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /home/anika/.android/build-cache/00faffa765fd3bea5fc1034a7d0fc9a24fc7ed0c/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /home/anika/.android/build-cache/00faffa765fd3bea5fc1034a7d0fc9a24fc7ed0c/output/AndroidManifest.xml:20:20-65

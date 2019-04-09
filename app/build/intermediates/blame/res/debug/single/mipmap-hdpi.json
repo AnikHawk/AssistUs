@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/anika/AndroidStudioProjects/Assistus/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/anika/AndroidStudioProjects/Assistus/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/anika/AndroidStudioProjects/Assistus/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/anika/AndroidStudioProjects/Assistus/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/anika/AndroidStudioProjects/Assistus/C:\\Users\\Anik\\AndroidStudioProjects\\MyApplication10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "/home/anika/AndroidStudioProjects/Assistus/C:\\Users\\Anik\\AndroidStudioProjects\\MyApplication10\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/anika/AndroidStudioProjects/Assistus/C:\\Users\\Anik\\AndroidStudioProjects\\MyApplication10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "/home/anika/AndroidStudioProjects/Assistus/C:\\Users\\Anik\\AndroidStudioProjects\\MyApplication10\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/anika/AndroidStudioProjects/Assistus/app/build/intermediates/res/merged/debug/mipmap-hdpi/launcher.png",
+        "source": "/home/anika/AndroidStudioProjects/Assistus/app/src/main/res/mipmap-hdpi/launcher.png"
+    },
+    {
+        "merged": "/home/anika/AndroidStudioProjects/Assistus/C:\\Users\\Anik\\AndroidStudioProjects\\MyApplication10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\launcher.png",
+        "source": "/home/anika/AndroidStudioProjects/Assistus/C:\\Users\\Anik\\AndroidStudioProjects\\MyApplication10\\app\\src\\main\\res\\mipmap-hdpi\\launcher.png"
+    }
+]
